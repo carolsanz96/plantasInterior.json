@@ -1,0 +1,623 @@
+{
+    "plantasInterior": [
+        {
+            "nombre": "Phalaenopsis 2 tallos",
+            "codin": "203845",
+            "precio": "9.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/phalaenopsis2t.jpg"
+        },
+        {
+            "nombre": "Hortensia de Interior 3 Litros",
+            "codin": "213583",
+            "precio": "14.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/hortensiaI.jpg"
+        },
+        {
+            "nombre": "Crasa",
+            "codin": "087418",
+            "precio": "0.65",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "Si",
+            "Luz indirecta": " ",
+            "url": "img/crasas.jpg"
+        },
+        {
+            "nombre": "Areca",
+            "codin": "066826",
+            "precio": "12.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/areca.jpg"
+        },
+        {
+            "nombre": "Kalanchoe",
+            "codin": "322589",
+            "precio": "1.59",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/kalanchoe.jpg"
+        },
+        {
+            "nombre": "Anthurium",
+            "codin": "307142",
+            "precio": "7.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/anthurium.jpg"
+        },
+        {
+            "nombre": "Sanseiviera",
+            "codin": "344190",
+            "precio": "2.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/sanseviera.jpg"
+        },
+        {
+            "nombre": "Spathiphyllum",
+            "codin": "322588",
+            "precio": "1,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria",
+                "Suelo"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/spathiphyllum.jpg"
+        },
+        {
+            "nombre": "Rosal Mini",
+            "codin": "072532",
+            "precio": "6.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/rosalmini.jpg"
+        },
+        {
+            "nombre": "Gerbera",
+            "codin": "073931",
+            "precio": "2,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/gerbera.jpg"
+        },
+        {
+            "nombre": "Campanula",
+            "codin": "242481",
+            "precio": "4,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "Si",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/campanula.jpg"
+        },
+        {
+            "nombre": "Potho",
+            "codin": "135219",
+            "precio": "2,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/potho.jpg"
+        },
+        {
+            "nombre": "Bromelia",
+            "codin": "322586",
+            "precio": "3,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/bromelia.jpg"
+        },
+        {
+            "nombre": "Bananera",
+            "codin": "353058",
+            "precio": "6,99",
+            "oferta": "Si",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/bananera.jpg"
+        },
+        {
+            "nombre": "Pilea Peperomioides",
+            "codin": "342080",
+            "precio": "12,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/pilea.jpg"
+        },
+        {
+            "nombre": "Kentia",
+            "codin": "070600",
+            "precio": "26,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/kentia.jpg"
+        },
+        {
+            "nombre": "Dracenas",
+            "codin": "101670",
+            "precio": "16,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/dracena.jpg"
+        },
+        {
+            "nombre": "Gardenia",
+            "codin": "073292",
+            "precio": "6,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "Si",
+            "Luz indirecta": " ",
+            "url": "img/gardenia.jpg"
+        },
+        {
+            "nombre": "Tronco de Brasil",
+            "codin": "255436",
+            "precio": "12.99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/troncodebrasil.jpg"
+        },
+        {
+            "nombre": "Carnívoras",
+            "codin": "058731",
+            "precio": "5,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/carnivora.jpg"
+        },
+        {
+            "nombre": "Azucena",
+            "codin": "258364",
+            "precio": "6,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/azucena.jpg"
+        },
+        {
+            "nombre": "Helecho",
+            "codin": "106331",
+            "precio": "4,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/helecho.jpg"
+        },
+        {
+            "nombre": "Ficus Robusta",
+            "codin": "104450",
+            "precio": "34,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/ficusR.jpg"
+        },
+        {
+            "nombre": "Ficus Danielle",
+            "codin": "220426",
+            "precio": "12,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/ficusD.jpg"
+        },
+        {
+            "nombre": "Cocotera",
+            "codin": "350554",
+            "precio": "12,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/cocotera.jpg"
+        },
+        {
+            "nombre": "Calathea Crocata",
+            "codin": "064607",
+            "precio": "12,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horass",
+            "url": "img/calatheaC.jpg"
+        },
+        {
+            "nombre": "Calathea",
+            "codin": "350554",
+            "precio": "12,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "Si",
+            "Luz indirecta": " ",
+            "url": "img/calathea.jpg"
+        },
+        {
+            "nombre": "Aloe Vera",
+            "codin": "072506",
+            "precio": "4,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "Si",
+            "Luz indirecta": " ",
+            "url": "img/aloe.jpg"
+        },
+        {
+            "nombre": "Tillandsia",
+            "codin": "352600",
+            "precio": "4,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/tillandsia.jpg"
+        },
+        {
+            "nombre": "Peperomia",
+            "codin": "209139",
+            "precio": "5,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/peperomia.jpg"
+        },
+        {
+            "nombre": "Planta del dinero",
+            "codin": "120540",
+            "precio": "3,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Estanteria"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/plantaDinero.jpg.jpg"
+        },
+        {
+            "nombre": "Violeta Africana",
+            "codin": "136880",
+            "precio": "2,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa"
+            ],
+            "flor": "Si",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/violetaAfri.jpg"
+        },
+        {
+            "nombre": "Fittonia",
+            "codin": "251867",
+            "precio": "2,49",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/fittonia.jpg"
+        },
+        {
+            "nombre": "Schefflera",
+            "codin": "131747",
+            "precio": "29,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/schefflera.jpg"
+        },
+        {
+            "nombre": "Zamioculca",
+            "codin": "101460",
+            "precio": "5,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/zamioculca.jpg"
+        },
+        {
+            "nombre": "Ripsalis de flor",
+            "codin": "110831",
+            "precio": "2,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Estanteria"
+            ],
+            "flor": "Si",
+            "Cuidados": "Bajo",
+            "Luz directa": "Si",
+            "Luz indirecta": " ",
+            "url": "img/ripsalis.jpg"
+        },
+        {
+            "nombre": "Alocasia",
+            "codin": "301329",
+            "precio": "6,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/alocasia.jpg"
+        },
+        {
+            "nombre": "Beaucarnea",
+            "codin": "324326",
+            "precio": "14,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/beaucarnea.jpg"
+        },
+        {
+            "nombre": "Pachira",
+            "codin": "091399",
+            "precio": "9,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "mas de 6 horas",
+            "url": "img/pachira.jpg"
+        },
+        {
+            "nombre": "Yucca",
+            "codin": "113347",
+            "precio": "6,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/yucca.jpg"
+        },
+        {
+            "nombre": "Aspidistra",
+            "codin": "142048",
+            "precio": "24,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Bajo",
+            "Luz directa": "No",
+            "Luz indirecta": "menos de 2 horas",
+            "url": "img/aspidistra.jpg"
+        },
+        {
+            "nombre": "Diefembaccia",
+            "codin": "250009",
+            "precio": "9,99",
+            "oferta": "no",
+            "ubicacion": [
+                "Mesa",
+                "Suelo"
+            ],
+            "flor": "No",
+            "Cuidados": "Normal",
+            "Luz directa": "No",
+            "Luz indirecta": "de 2 a 6 horas",
+            "url": "img/diefembachia.jpg"
+        }
+    ]
+}
