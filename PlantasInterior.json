@@ -6,8 +6,8 @@
             "precio": "9.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -21,8 +21,8 @@
             "precio": "14.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -36,8 +36,8 @@
             "precio": "0.65",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -51,7 +51,7 @@
             "precio": "12.99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -65,8 +65,8 @@
             "precio": "1.59",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
@@ -80,8 +80,8 @@
             "precio": "7.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
@@ -95,8 +95,8 @@
             "precio": "2.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
@@ -110,9 +110,9 @@
             "precio": "1,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"},
+                {"lugar":"Suelo"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -126,8 +126,8 @@
             "precio": "6.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -141,8 +141,8 @@
             "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -156,8 +156,8 @@
             "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -171,9 +171,9 @@
             "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -187,8 +187,8 @@
             "precio": "3,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
@@ -202,7 +202,7 @@
             "precio": "6,99",
             "oferta": "Si",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -216,8 +216,8 @@
             "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -231,7 +231,7 @@
             "precio": "26,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -245,7 +245,7 @@
             "precio": "16,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -259,8 +259,8 @@
             "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -274,8 +274,8 @@
             "precio": "12.99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -289,8 +289,8 @@
             "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -304,8 +304,8 @@
             "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -319,8 +319,8 @@
             "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -334,7 +334,7 @@
             "precio": "34,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -348,7 +348,7 @@
             "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -362,7 +362,7 @@
             "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -376,8 +376,8 @@
             "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -387,12 +387,12 @@
         },
         {
             "nombre": "Calathea",
-            "codin": "068618",
+            "codin": "350554",
             "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -406,9 +406,9 @@
             "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -422,8 +422,8 @@
             "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -437,8 +437,8 @@
             "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -452,7 +452,7 @@
             "precio": "3,99",
             "oferta": "no",
             "ubicacion": [
-                "Estanteria"
+                {"lugar":"Estanteria"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -466,7 +466,7 @@
             "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa"
+                {"lugar":"Mesa"}
             ],
             "flor": "Si",
             "Cuidados": "Normal",
@@ -480,7 +480,7 @@
             "precio": "2,49",
             "oferta": "no",
             "ubicacion": [
-                "Mesa"
+                {"lugar":"Mesa"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -494,7 +494,7 @@
             "precio": "29,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -508,7 +508,7 @@
             "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -522,8 +522,8 @@
             "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Estanteria"
+                {"lugar":"Mesa"},
+                {"lugar":"Estanteria"}
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
@@ -537,7 +537,7 @@
             "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
@@ -551,8 +551,8 @@
             "precio": "14,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -566,8 +566,8 @@
             "precio": "9,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -581,8 +581,8 @@
             "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -596,7 +596,7 @@
             "precio": "24,99",
             "oferta": "no",
             "ubicacion": [
-                "Suelo"
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Bajo",
@@ -610,8 +610,8 @@
             "precio": "9,99",
             "oferta": "no",
             "ubicacion": [
-                "Mesa",
-                "Suelo"
+                {"lugar":"Mesa"},
+                {"lugar":"Suelo"}
             ],
             "flor": "No",
             "Cuidados": "Normal",
