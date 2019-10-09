@@ -11,8 +11,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/52336-large_default/orquidea-phalaenopsis-rosa-2-tallos-en-maceta-12cm.jpg"
         },
         {
@@ -26,8 +26,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/54191-large_default/hortensia-variedades.jpg"
         },
         {
@@ -41,8 +41,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "Si",
-            "Luz indirecta": " ",
+            "luzdir": "Si",
+            "luzindir": " ",
             "url": "https://verdecora.es/52185-large_default/crasas-surtido-variado.jpg"
         },
         {
@@ -55,8 +55,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/19261-large_default/areca.jpg"
         },
         {
@@ -70,8 +70,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/56215-large_default/kalanchoe-planta-de-interior-en-maceta.jpg"
         },
         {
@@ -85,8 +85,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48040-large_default/anthurium-surtido-colores.jpg"
         },
         {
@@ -100,8 +100,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/45682-large_default/sanseviera-surtido-variado.jpg"
         },
         {
@@ -116,8 +116,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48024-large_default/spathiphyllum-planta.jpg"
         },
         {
@@ -131,8 +131,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/48036-large_default/rosal-mini-maceta-13-cm.jpg"
         },
         {
@@ -146,8 +146,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "img/gerbera.jpg"
         },
         {
@@ -161,8 +161,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "Si",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "Si",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48015-large_default/campanula-en-maceta.jpg"
         },
         {
@@ -177,8 +177,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/19249-large_default/potho.jpg"
         },
         {
@@ -192,8 +192,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/35502-large_default/bromelia.jpg"
         },
         {
@@ -206,8 +206,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/57021-large_default/bananera-maceta-13cm.jpg"
         },
         {
@@ -221,8 +221,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/52324-large_default/pilea-peperomioides-maceta-12cm.jpg"
         },
         {
@@ -235,8 +235,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13444-large_default/kentia-planta-interior.jpg"
         },
         {
@@ -249,8 +249,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/19278-large_default/dracena-compacta.jpg"
         },
         {
@@ -264,8 +264,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "Si",
-            "Luz indirecta": " ",
+            "luzdir": "Si",
+            "luzindir": " ",
             "url": "https://verdecora.es/48043-large_default/gardenia-maceta-12cm.jpg"
         },
         {
@@ -279,8 +279,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/37186-large_default/tronco-del-brasil.jpg"
         },
         {
@@ -294,8 +294,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/49035-large_default/dionaea-muscipula-planta-carnivora.jpg"
         },
         {
@@ -309,8 +309,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "img/azucena.jpg"
         },
         {
@@ -324,8 +324,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13473-large_default/helecho-maceta-planta-verde.jpg"
         },
         {
@@ -338,8 +338,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13344-large_default/ficus-robusta.jpg"
         },
         {
@@ -352,8 +352,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/56891-large_default/ficus-danielle.jpg"
         },
         {
@@ -366,8 +366,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/56890-large_default/palmera-cocotera.jpg"
         },
         {
@@ -381,8 +381,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horass",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horass",
             "url": "https://verdecora.es/21119-large_default/calathea-crocata-en-maceta-o13cm.jpg"
         },
         {
@@ -396,8 +396,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "Si",
-            "Luz indirecta": " ",
+            "luzdir": "Si",
+            "luzindir": " ",
             "url": "https://verdecora.es/14273-large_default/calathea-maceta-3-litros.jpg"
         },
         {
@@ -412,8 +412,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "Si",
-            "Luz indirecta": " ",
+            "luzdir": "Si",
+            "luzindir": " ",
             "url": "https://verdecora.es/56202-large_default/aloe-vera.jpg"
         },
         {
@@ -427,8 +427,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "img/tillandsia.jpg"
         },
         {
@@ -442,8 +442,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10903-large_default/peperomia-maceta-o12cm.jpg"
         },
         {
@@ -456,8 +456,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10901-large_default/planta-del-dinero-colgante.jpg"
         },
         {
@@ -470,8 +470,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48046-large_default/violeta-africana-maceta-12-cm.jpg"
         },
         {
@@ -484,8 +484,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13466-large_default/fittonia-maceta-9cm.jpg"
         },
         {
@@ -498,8 +498,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13488-large_default/schefflera-gold.jpg"
         },
         {
@@ -512,8 +512,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/13485-large_default/zamioculca-en-maceta.jpg"
         },
         {
@@ -527,8 +527,8 @@
             ],
             "flor": "Si",
             "Cuidados": "Bajo",
-            "Luz directa": "Si",
-            "Luz indirecta": " ",
+            "luzdir": "Si",
+            "luzindir": " ",
             "url": "https://verdecora.es/17840-large_default/ripsalis-de-flor.jpg"
         },
         {
@@ -541,8 +541,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/10908-large_default/alocasia-polly-maceta-o13cm.jpg"
         },
         {
@@ -556,8 +556,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "img/beaucarnea.jpg"
         },
         {
@@ -571,8 +571,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "mas de 6 horas",
+            "luzdir": "No",
+            "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/43336-large_default/pachira.jpg"
         },
         {
@@ -586,8 +586,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/plantas-verdes/113347-yucca-maceta-12cm.html"
         },
         {
@@ -600,8 +600,8 @@
             ],
             "flor": "No",
             "Cuidados": "Bajo",
-            "Luz directa": "No",
-            "Luz indirecta": "menos de 2 horas",
+            "luzdir": "No",
+            "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/39759-large_default/aspidistra-maceta-3-litros.jpg"
         },
         {
@@ -615,8 +615,8 @@
             ],
             "flor": "No",
             "Cuidados": "Normal",
-            "Luz directa": "No",
-            "Luz indirecta": "de 2 a 6 horas",
+            "luzdir": "No",
+            "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10904-large_default/dieffembachia-camilla-maceta-3-litros.jpg"
         }
     ]
