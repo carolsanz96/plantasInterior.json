@@ -3,7 +3,7 @@
         {
             "nombre": "Phalaenopsis 2 tallos",
             "codin": "203845",
-            "precio": 9.99,
+            "precio": "9.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -18,7 +18,7 @@
         {
             "nombre": "Hortensia de Interior 3 Litros",
             "codin": "213583",
-            "precio": 14.99,
+            "precio": "14.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -33,7 +33,7 @@
         {
             "nombre": "Crasa",
             "codin": "087418",
-            "precio": 0.65,
+            "precio": "0.65",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -48,7 +48,7 @@
         {
             "nombre": "Areca",
             "codin": "066826",
-            "precio": 12.99,
+            "precio": "12.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -62,7 +62,7 @@
         {
             "nombre": "Kalanchoe",
             "codin": "322589",
-            "precio": 1.59,
+            "precio": "1.59",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -77,7 +77,7 @@
         {
             "nombre": "Anthurium",
             "codin": "307142",
-            "precio": 7.99,
+            "precio": "7.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -92,7 +92,7 @@
         {
             "nombre": "Sanseiviera",
             "codin": "344190",
-            "precio": 2.99,
+            "precio": "2.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -107,7 +107,7 @@
         {
             "nombre": "Spathiphyllum",
             "codin": "322588",
-            "precio": 1,99,
+            "precio": "1,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -123,7 +123,7 @@
         {
             "nombre": "Rosal Mini",
             "codin": "072532",
-            "precio": 6.99,
+            "precio": "6.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -138,7 +138,7 @@
         {
             "nombre": "Gerbera",
             "codin": "073931",
-            "precio": 2,99,
+            "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -153,7 +153,7 @@
         {
             "nombre": "Campanula",
             "codin": "242481",
-            "precio": 4,99,
+            "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -168,7 +168,7 @@
         {
             "nombre": "Potho",
             "codin": "135219",
-            "precio": 2,99,
+            "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -184,7 +184,7 @@
         {
             "nombre": "Bromelia",
             "codin": "322586",
-            "precio": 3,99,
+            "precio": "3,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -199,7 +199,7 @@
         {
             "nombre": "Bananera",
             "codin": "353058",
-            "precio": 6,99,
+            "precio": "6,99",
             "oferta": "Si",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -213,7 +213,7 @@
         {
             "nombre": "Pilea Peperomioides",
             "codin": "342080",
-            "precio": 12,99,
+            "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -228,7 +228,7 @@
         {
             "nombre": "Kentia",
             "codin": "070600",
-            "precio": 26,99,
+            "precio": "26,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -242,7 +242,7 @@
         {
             "nombre": "Dracenas",
             "codin": "101670",
-            "precio": 16,99,
+            "precio": "16,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -256,7 +256,7 @@
         {
             "nombre": "Gardenia",
             "codin": "073292",
-            "precio": 6,99,
+            "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -271,7 +271,7 @@
         {
             "nombre": "Tronco de Brasil",
             "codin": "255436",
-            "precio": 12.99,
+            "precio": "12.99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -286,7 +286,7 @@
         {
             "nombre": "Carnívoras",
             "codin": "058731",
-            "precio": 5,99,
+            "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -301,7 +301,7 @@
         {
             "nombre": "Azucena",
             "codin": "258364",
-            "precio": 6,99,
+            "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -316,7 +316,7 @@
         {
             "nombre": "Helecho",
             "codin": "106331",
-            "precio": 4,99,
+            "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -331,7 +331,7 @@
         {
             "nombre": "Ficus Robusta",
             "codin": "104450",
-            "precio": 34,99,
+            "precio": "34,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -345,7 +345,7 @@
         {
             "nombre": "Ficus Danielle",
             "codin": "220426",
-            "precio": 12,99,
+            "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -359,7 +359,7 @@
         {
             "nombre": "Cocotera",
             "codin": "350554",
-            "precio": 12,99,
+            "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -373,7 +373,7 @@
         {
             "nombre": "Calathea Crocata",
             "codin": "064607",
-            "precio": 12,99,
+            "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -388,7 +388,7 @@
         {
             "nombre": "Calathea",
             "codin": "350554",
-            "precio": 12,99,
+            "precio": "12,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -403,7 +403,7 @@
         {
             "nombre": "Aloe Vera",
             "codin": "072506",
-            "precio": 4,99,
+            "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -419,7 +419,7 @@
         {
             "nombre": "Tillandsia",
             "codin": "352600",
-            "precio": 4,99,
+            "precio": "4,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -434,7 +434,7 @@
         {
             "nombre": "Peperomia",
             "codin": "209139",
-            "precio": 5,99,
+            "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -449,7 +449,7 @@
         {
             "nombre": "Planta del dinero",
             "codin": "120540",
-            "precio": 3,99,
+            "precio": "3,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Estanteria"}
@@ -463,7 +463,7 @@
         {
             "nombre": "Violeta Africana",
             "codin": "136880",
-            "precio": 2,99,
+            "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"}
@@ -477,7 +477,7 @@
         {
             "nombre": "Fittonia",
             "codin": "251867",
-            "precio": 2,49,
+            "precio": "2,49",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"}
@@ -491,7 +491,7 @@
         {
             "nombre": "Schefflera",
             "codin": "131747",
-            "precio": 29,99,
+            "precio": "29,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -505,7 +505,7 @@
         {
             "nombre": "Zamioculca",
             "codin": "101460",
-            "precio": 5,99,
+            "precio": "5,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -519,7 +519,7 @@
         {
             "nombre": "Ripsalis de flor",
             "codin": "110831",
-            "precio": 2,99,
+            "precio": "2,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -534,7 +534,7 @@
         {
             "nombre": "Alocasia",
             "codin": "301329",
-            "precio": 6,99,
+            "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -548,7 +548,7 @@
         {
             "nombre": "Beaucarnea",
             "codin": "324326",
-            "precio": 14,99,
+            "precio": "14,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -563,7 +563,7 @@
         {
             "nombre": "Pachira",
             "codin": "091399",
-            "precio": 9,99,
+            "precio": "9,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -578,7 +578,7 @@
         {
             "nombre": "Yucca",
             "codin": "113347",
-            "precio": 6,99,
+            "precio": "6,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
@@ -593,7 +593,7 @@
         {
             "nombre": "Aspidistra",
             "codin": "142048",
-            "precio": 24,99,
+            "precio": "24,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Suelo"}
@@ -607,7 +607,7 @@
         {
             "nombre": "Diefembaccia",
             "codin": "250009",
-            "precio": 9,99,
+            "precio": "9,99",
             "oferta": "no",
             "ubicacion": [
                 {"lugar":"Mesa"},
