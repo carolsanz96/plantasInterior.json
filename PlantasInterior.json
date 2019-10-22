@@ -234,7 +234,7 @@
                 {"lugar":"Suelo"}
             ],
             "flor": "false",
-            "Cuidados": "Bajo",
+            "cuidados": "Bajo",
             "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13444-large_default/kentia-planta-interior.jpg"
