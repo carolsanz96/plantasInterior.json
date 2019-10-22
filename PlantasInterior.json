@@ -4,14 +4,14 @@
             "nombre": "Phalaenopsis 2 tallos",
             "codin": "203845",
             "precio": "9.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/52336-large_default/orquidea-phalaenopsis-rosa-2-tallos-en-maceta-12cm.jpg"
         },
@@ -19,14 +19,14 @@
             "nombre": "Hortensia de Interior 3 Litros",
             "codin": "213583",
             "precio": "14.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/54191-large_default/hortensia-variedades.jpg"
         },
@@ -34,14 +34,14 @@
             "nombre": "Crasa",
             "codin": "087418",
             "precio": "0.65",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": " ",
             "url": "https://verdecora.es/52185-large_default/crasas-surtido-variado.jpg"
         },
@@ -49,13 +49,13 @@
             "nombre": "Areca",
             "codin": "066826",
             "precio": "12.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/19261-large_default/areca.jpg"
         },
@@ -63,14 +63,14 @@
             "nombre": "Kalanchoe",
             "codin": "322589",
             "precio": "1.59",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/56215-large_default/kalanchoe-planta-de-interior-en-maceta.jpg"
         },
@@ -78,14 +78,14 @@
             "nombre": "Anthurium",
             "codin": "307142",
             "precio": "7.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48040-large_default/anthurium-surtido-colores.jpg"
         },
@@ -93,14 +93,14 @@
             "nombre": "Sanseiviera",
             "codin": "344190",
             "precio": "2.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/45682-large_default/sanseviera-surtido-variado.jpg"
         },
@@ -108,15 +108,15 @@
             "nombre": "Spathiphyllum",
             "codin": "322588",
             "precio": "1,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48024-large_default/spathiphyllum-planta.jpg"
         },
@@ -124,14 +124,14 @@
             "nombre": "Rosal Mini",
             "codin": "072532",
             "precio": "6.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/48036-large_default/rosal-mini-maceta-13-cm.jpg"
         },
@@ -139,14 +139,14 @@
             "nombre": "Gerbera",
             "codin": "073931",
             "precio": "2,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "img/gerbera.jpg"
         },
@@ -154,14 +154,14 @@
             "nombre": "Campanula",
             "codin": "242481",
             "precio": "4,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48015-large_default/campanula-en-maceta.jpg"
         },
@@ -169,15 +169,15 @@
             "nombre": "Potho",
             "codin": "135219",
             "precio": "2,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/19249-large_default/potho.jpg"
         },
@@ -185,14 +185,14 @@
             "nombre": "Bromelia",
             "codin": "322586",
             "precio": "3,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "Cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/35502-large_default/bromelia.jpg"
         },
@@ -200,13 +200,13 @@
             "nombre": "Bananera",
             "codin": "353058",
             "precio": "6,99",
-            "oferta": "Si",
+            "oferta": "true",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/57021-large_default/bananera-maceta-13cm.jpg"
         },
@@ -214,14 +214,14 @@
             "nombre": "Pilea Peperomioides",
             "codin": "342080",
             "precio": "12,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/52324-large_default/pilea-peperomioides-maceta-12cm.jpg"
         },
@@ -229,13 +229,13 @@
             "nombre": "Kentia",
             "codin": "070600",
             "precio": "26,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "Cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13444-large_default/kentia-planta-interior.jpg"
         },
@@ -243,13 +243,13 @@
             "nombre": "Dracenas",
             "codin": "101670",
             "precio": "16,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/19278-large_default/dracena-compacta.jpg"
         },
@@ -257,14 +257,14 @@
             "nombre": "Gardenia",
             "codin": "073292",
             "precio": "6,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": " ",
             "url": "https://verdecora.es/48043-large_default/gardenia-maceta-12cm.jpg"
         },
@@ -272,14 +272,14 @@
             "nombre": "Tronco de Brasil",
             "codin": "255436",
             "precio": "12.99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/37186-large_default/tronco-del-brasil.jpg"
         },
@@ -287,14 +287,14 @@
             "nombre": "Carnívoras",
             "codin": "058731",
             "precio": "5,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/49035-large_default/dionaea-muscipula-planta-carnivora.jpg"
         },
@@ -302,14 +302,14 @@
             "nombre": "Azucena",
             "codin": "258364",
             "precio": "6,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "img/azucena.jpg"
         },
@@ -317,14 +317,14 @@
             "nombre": "Helecho",
             "codin": "106331",
             "precio": "4,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13473-large_default/helecho-maceta-planta-verde.jpg"
         },
@@ -332,13 +332,13 @@
             "nombre": "Ficus Robusta",
             "codin": "104450",
             "precio": "34,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13344-large_default/ficus-robusta.jpg"
         },
@@ -346,13 +346,13 @@
             "nombre": "Ficus Danielle",
             "codin": "220426",
             "precio": "12,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/56891-large_default/ficus-danielle.jpg"
         },
@@ -360,13 +360,13 @@
             "nombre": "Cocotera",
             "codin": "350554",
             "precio": "12,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/56890-large_default/palmera-cocotera.jpg"
         },
@@ -374,14 +374,14 @@
             "nombre": "Calathea Crocata",
             "codin": "064607",
             "precio": "12,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horass",
             "url": "https://verdecora.es/21119-large_default/calathea-crocata-en-maceta-o13cm.jpg"
         },
@@ -389,14 +389,14 @@
             "nombre": "Calathea",
             "codin": "350554",
             "precio": "12,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": " ",
             "url": "https://verdecora.es/14273-large_default/calathea-maceta-3-litros.jpg"
         },
@@ -404,15 +404,15 @@
             "nombre": "Aloe Vera",
             "codin": "072506",
             "precio": "4,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": " ",
             "url": "https://verdecora.es/56202-large_default/aloe-vera.jpg"
         },
@@ -420,14 +420,14 @@
             "nombre": "Tillandsia",
             "codin": "352600",
             "precio": "4,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "img/tillandsia.jpg"
         },
@@ -435,14 +435,14 @@
             "nombre": "Peperomia",
             "codin": "209139",
             "precio": "5,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10903-large_default/peperomia-maceta-o12cm.jpg"
         },
@@ -450,13 +450,13 @@
             "nombre": "Planta del dinero",
             "codin": "120540",
             "precio": "3,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Estanteria"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10901-large_default/planta-del-dinero-colgante.jpg"
         },
@@ -464,13 +464,13 @@
             "nombre": "Violeta Africana",
             "codin": "136880",
             "precio": "2,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/48046-large_default/violeta-africana-maceta-12-cm.jpg"
         },
@@ -478,13 +478,13 @@
             "nombre": "Fittonia",
             "codin": "251867",
             "precio": "2,49",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13466-large_default/fittonia-maceta-9cm.jpg"
         },
@@ -492,13 +492,13 @@
             "nombre": "Schefflera",
             "codin": "131747",
             "precio": "29,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/13488-large_default/schefflera-gold.jpg"
         },
@@ -506,13 +506,13 @@
             "nombre": "Zamioculca",
             "codin": "101460",
             "precio": "5,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/13485-large_default/zamioculca-en-maceta.jpg"
         },
@@ -520,14 +520,14 @@
             "nombre": "Ripsalis de flor",
             "codin": "110831",
             "precio": "2,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Estanteria"}
             ],
-            "flor": "Si",
+            "flor": "true",
             "cuidados": "Bajo",
-            "luzdir": "Si",
+            "luzdir": "true",
             "luzindir": " ",
             "url": "https://verdecora.es/17840-large_default/ripsalis-de-flor.jpg"
         },
@@ -535,13 +535,13 @@
             "nombre": "Alocasia",
             "codin": "301329",
             "precio": "6,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/10908-large_default/alocasia-polly-maceta-o13cm.jpg"
         },
@@ -549,14 +549,14 @@
             "nombre": "Beaucarnea",
             "codin": "324326",
             "precio": "14,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "img/beaucarnea.jpg"
         },
@@ -564,14 +564,14 @@
             "nombre": "Pachira",
             "codin": "091399",
             "precio": "9,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/43336-large_default/pachira.jpg"
         },
@@ -579,14 +579,14 @@
             "nombre": "Yucca",
             "codin": "113347",
             "precio": "6,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/plantas-verdes/113347-yucca-maceta-12cm.html"
         },
@@ -594,13 +594,13 @@
             "nombre": "Aspidistra",
             "codin": "142048",
             "precio": "24,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Bajo",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "menos de 2 horas",
             "url": "https://verdecora.es/39759-large_default/aspidistra-maceta-3-litros.jpg"
         },
@@ -608,14 +608,14 @@
             "nombre": "Diefembaccia",
             "codin": "250009",
             "precio": "9,99",
-            "oferta": "no",
+            "oferta": "false",
             "ubicacion": [
                 {"lugar":"Mesa"},
                 {"lugar":"Suelo"}
             ],
-            "flor": "No",
+            "flor": "false",
             "cuidados": "Normal",
-            "luzdir": "No",
+            "luzdir": "false",
             "luzindir": "de 2 a 6 horas",
             "url": "https://verdecora.es/10904-large_default/dieffembachia-camilla-maceta-3-litros.jpg"
         }
