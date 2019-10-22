@@ -191,7 +191,7 @@
                 {"lugar":"Estanteria"}
             ],
             "flor": "true",
-            "Cuidados": "Bajo",
+            "cuidados": "Bajo",
             "luzdir": "false",
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/35502-large_default/bromelia.jpg"
