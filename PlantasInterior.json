@@ -13,7 +13,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/52336-large_default/orquidea-phalaenopsis-rosa-2-tallos-en-maceta-12cm.jpg"
+            "url": "https://verdecora.es/52336-large_default/orquidea-phalaenopsis-rosa-2-tallos-en-maceta-12cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=orquidea&submit_search="
         },
         {
             "nombre": "Hortensia de Interior 3 Litros",
@@ -28,7 +29,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/54191-large_default/hortensia-variedades.jpg"
+            "url": "https://verdecora.es/54191-large_default/hortensia-variedades.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=hortensia&submit_search="
         },
         {
             "nombre": "Crasa",
@@ -43,7 +45,8 @@
             "cuidados": "Bajo",
             "luzdir": true,
             "luzindir": " ",
-            "url": "https://verdecora.es/52185-large_default/crasas-surtido-variado.jpg"
+            "url": "https://verdecora.es/52185-large_default/crasas-surtido-variado.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=crasa&submit_search="
         },
         {
             "nombre": "Areca",
@@ -57,7 +60,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/19261-large_default/areca.jpg"
+            "url": "https://verdecora.es/19261-large_default/areca.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=areca&submit_search="
         },
         {
             "nombre": "Kalanchoe",
@@ -72,7 +76,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/56215-large_default/kalanchoe-planta-de-interior-en-maceta.jpg"
+            "url": "https://verdecora.es/56215-large_default/kalanchoe-planta-de-interior-en-maceta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=kalanchoe&submit_search="
         },
         {
             "nombre": "Anthurium",
@@ -87,7 +92,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/48040-large_default/anthurium-surtido-colores.jpg"
+            "url": "https://verdecora.es/48040-large_default/anthurium-surtido-colores.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=anthurium&submit_search="
         },
         {
             "nombre": "Sanseiviera",
@@ -102,7 +108,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "https://verdecora.es/45682-large_default/sanseviera-surtido-variado.jpg"
+            "url": "https://verdecora.es/45682-large_default/sanseviera-surtido-variado.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=sanseviera&submit_search="
         },
         {
             "nombre": "Spathiphyllum",
@@ -118,7 +125,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/48024-large_default/spathiphyllum-planta.jpg"
+            "url": "https://verdecora.es/48024-large_default/spathiphyllum-planta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Spathiphyllum&submit_search="
         },
         {
             "nombre": "Rosal Mini",
@@ -134,6 +142,7 @@
             "luzdir": false,
             "luzindir": "mas de 6 horas",
             "url": "https://verdecora.es/48036-large_default/rosal-mini-maceta-13-cm.jpg"
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=rosal+mini&submit_search="
         },
         {
             "nombre": "Gerbera",
@@ -148,7 +157,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "img/gerbera.jpg"
+            "url": "https://verdecora.es/48021-large_default/gerbera-maceta-12cm.jpg"
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=gerbera&submit_search="
         },
         {
             "nombre": "Campanula",
@@ -163,7 +173,8 @@
             "cuidados": "Normal",
             "luzdir": true,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/48015-large_default/campanula-en-maceta.jpg"
+            "url": "https://verdecora.es/48015-large_default/campanula-en-maceta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Campanula&submit_search="
         },
         {
             "nombre": "Potho",
@@ -179,7 +190,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "https://verdecora.es/19249-large_default/potho.jpg"
+            "url": "https://verdecora.es/19249-large_default/potho.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=photo&submit_search="
         },
         {
             "nombre": "Bromelia",
@@ -194,7 +206,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/35502-large_default/bromelia.jpg"
+            "url": "https://verdecora.es/35502-large_default/bromelia.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=bromelia&submit_search="
         },
         {
             "nombre": "Bananera",
@@ -208,7 +221,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/57021-large_default/bananera-maceta-13cm.jpg"
+            "url": "https://verdecora.es/57021-large_default/bananera-maceta-13cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=bananera&submit_search="
         },
         {
             "nombre": "Pilea Peperomioides",
@@ -223,7 +237,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/52324-large_default/pilea-peperomioides-maceta-12cm.jpg"
+            "url": "https://verdecora.es/52324-large_default/pilea-peperomioides-maceta-12cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=pilea+peperomioides&submit_search="
         },
         {
             "nombre": "Kentia",
@@ -237,7 +252,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/13444-large_default/kentia-planta-interior.jpg"
+            "url": "https://verdecora.es/13444-large_default/kentia-planta-interior.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=kentia&submit_search="
         },
         {
             "nombre": "Dracenas",
@@ -251,7 +267,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "https://verdecora.es/19278-large_default/dracena-compacta.jpg"
+            "url": "https://verdecora.es/19278-large_default/dracena-compacta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=dracena&submit_search="
         },
         {
             "nombre": "Gardenia",
@@ -266,7 +283,8 @@
             "cuidados": "Normal",
             "luzdir": true,
             "luzindir": " ",
-            "url": "https://verdecora.es/48043-large_default/gardenia-maceta-12cm.jpg"
+            "url": "https://verdecora.es/48043-large_default/gardenia-maceta-12cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=gardenia&submit_search="
         },
         {
             "nombre": "Tronco de Brasil",
@@ -281,7 +299,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/37186-large_default/tronco-del-brasil.jpg"
+            "url": "https://verdecora.es/37186-large_default/tronco-del-brasil.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=tronco+brasil&submit_search="
         },
         {
             "nombre": "Carnívoras",
@@ -296,7 +315,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/49035-large_default/dionaea-muscipula-planta-carnivora.jpg"
+            "url": "https://verdecora.es/49035-large_default/dionaea-muscipula-planta-carnivora.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=carnivora&submit_search="
         },
         {
             "nombre": "Azucena",
@@ -311,7 +331,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "img/azucena.jpg"
+            "url": "https://verdecora.es/48027-large_default/azucena-.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=azucena&submit_search="
         },
         {
             "nombre": "Helecho",
@@ -326,7 +347,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/13473-large_default/helecho-maceta-planta-verde.jpg"
+            "url": "https://verdecora.es/13473-large_default/helecho-maceta-planta-verde.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=helecho&submit_search="
         },
         {
             "nombre": "Ficus Robusta",
@@ -340,7 +362,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/13344-large_default/ficus-robusta.jpg"
+            "url": "https://verdecora.es/13344-large_default/ficus-robusta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=ficus+robusta&submit_search="
         },
         {
             "nombre": "Ficus Danielle",
@@ -354,7 +377,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/56891-large_default/ficus-danielle.jpg"
+            "url": "https://verdecora.es/56891-large_default/ficus-danielle.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=ficus+danielle&submit_search="
         },
         {
             "nombre": "Cocotera",
@@ -368,7 +392,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/56890-large_default/palmera-cocotera.jpg"
+            "url": "https://verdecora.es/56890-large_default/palmera-cocotera.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=cocotera&submit_search="
         },
         {
             "nombre": "Calathea Crocata",
@@ -383,7 +408,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horass",
-            "url": "https://verdecora.es/21119-large_default/calathea-crocata-en-maceta-o13cm.jpg"
+            "url": "https://verdecora.es/21119-large_default/calathea-crocata-en-maceta-o13cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Calathea+Crocata&submit_search="
         },
         {
             "nombre": "Calathea",
@@ -398,7 +424,8 @@
             "cuidados": "Bajo",
             "luzdir": true,
             "luzindir": " ",
-            "url": "https://verdecora.es/14273-large_default/calathea-maceta-3-litros.jpg"
+            "url": "https://verdecora.es/14273-large_default/calathea-maceta-3-litros.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Calathea&submit_search="
         },
         {
             "nombre": "Aloe Vera",
@@ -414,7 +441,8 @@
             "cuidados": "Bajo",
             "luzdir": true,
             "luzindir": " ",
-            "url": "https://verdecora.es/56202-large_default/aloe-vera.jpg"
+            "url": "https://verdecora.es/56202-large_default/aloe-vera.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=aloe+vera&submit_search="
         },
         {
             "nombre": "Tillandsia",
@@ -429,7 +457,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "img/tillandsia.jpg"
+            "url": "https://verdecora.es/57025-large_default/tillandsia-roja.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=tillandsia&submit_search="
         },
         {
             "nombre": "Peperomia",
@@ -458,7 +487,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/10901-large_default/planta-del-dinero-colgante.jpg"
+            "url": "https://verdecora.es/10901-large_default/planta-del-dinero-colgante.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Planta+del+dinero&submit_search="
         },
         {
             "nombre": "Violeta Africana",
@@ -472,7 +502,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/48046-large_default/violeta-africana-maceta-12-cm.jpg"
+            "url": "https://verdecora.es/48046-large_default/violeta-africana-maceta-12-cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Violeta+Africana&submit_search="
         },
         {
             "nombre": "Fittonia",
@@ -486,7 +517,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/13466-large_default/fittonia-maceta-9cm.jpg"
+            "url": "https://verdecora.es/13466-large_default/fittonia-maceta-9cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Fittonia&submit_search="
         },
         {
             "nombre": "Schefflera",
@@ -500,7 +532,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/13488-large_default/schefflera-gold.jpg"
+            "url": "https://verdecora.es/13488-large_default/schefflera-gold.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Schefflera&submit_search="
         },
         {
             "nombre": "Zamioculca",
@@ -514,7 +547,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "https://verdecora.es/13485-large_default/zamioculca-en-maceta.jpg"
+            "url": "https://verdecora.es/13485-large_default/zamioculca-en-maceta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Zamioculca&submit_search="
         },
         {
             "nombre": "Ripsalis de flor",
@@ -529,7 +563,8 @@
             "cuidados": "Bajo",
             "luzdir": true,
             "luzindir": " ",
-            "url": "https://verdecora.es/17840-large_default/ripsalis-de-flor.jpg"
+            "url": "https://verdecora.es/17840-large_default/ripsalis-de-flor.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Ripsalis+de+flor&submit_search="
         },
         {
             "nombre": "Alocasia",
@@ -543,7 +578,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/10908-large_default/alocasia-polly-maceta-o13cm.jpg"
+            "url": "https://verdecora.es/10908-large_default/alocasia-polly-maceta-o13cm.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Alocasia&submit_search="
         },
         {
             "nombre": "Beaucarnea",
@@ -558,7 +594,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "img/beaucarnea.jpg"
+            "url": "https://verdecora.es/24736-large_default/beaucarnea-recta-maceta.jpg",
+            "enlace": "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Beaucarnea&submit_search="
         },
         {
             "nombre": "Pachira",
@@ -573,7 +610,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "mas de 6 horas",
-            "url": "https://verdecora.es/43336-large_default/pachira.jpg"
+            "url": "https://verdecora.es/43336-large_default/pachira.jpg",
+            "enlace":  "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Beaucarnea&submit_search="
         },
         {
             "nombre": "Yucca",
@@ -588,7 +626,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/plantas-verdes/113347-yucca-maceta-12cm.html"
+            "url": "https://verdecora.es/plantas-verdes/113347-yucca-maceta-12cm.html",
+            "enlace":  "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=yucca&submit_search="
         },
         {
             "nombre": "Aspidistra",
@@ -602,7 +641,8 @@
             "cuidados": "Bajo",
             "luzdir": false,
             "luzindir": "menos de 2 horas",
-            "url": "https://verdecora.es/39759-large_default/aspidistra-maceta-3-litros.jpg"
+            "url": "https://verdecora.es/39759-large_default/aspidistra-maceta-3-litros.jpg",
+            "enlace":  "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Aspidistra&submit_search="
         },
         {
             "nombre": "Diefembaccia",
@@ -617,7 +657,8 @@
             "cuidados": "Normal",
             "luzdir": false,
             "luzindir": "de 2 a 6 horas",
-            "url": "https://verdecora.es/10904-large_default/dieffembachia-camilla-maceta-3-litros.jpg"
+            "url": "https://verdecora.es/10904-large_default/dieffembachia-camilla-maceta-3-litros.jpg",
+            "enlace":  "https://verdecora.es/buscar?controller=search&orderby=position&orderway=desc&search_query=Dieffembachia&submit_search="
         }
     ]
 }
